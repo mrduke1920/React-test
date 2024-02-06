@@ -1,0 +1,14 @@
+
+.box{
+  height: 300px;
+  width:200px;
+  padding: 10px;
+  background-color: aqua;
+}
+.item{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
